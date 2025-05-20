@@ -1,0 +1,10 @@
+What type of exploit is running as a result of the relevant file running on the victim machine?
+rtf.exploit
+What is the relevant Exploit CVE code obtained as a result of the analysis?
+CVE-2017-11882
+What is the name of the malicious software downloaded from the internet as a result of the file running?
+jan2.exe
+What is the IP address and port information it communicates with?
+185.36.74.48:80
+What is the exe name it drops to disk after it runs?
+aro.exe
