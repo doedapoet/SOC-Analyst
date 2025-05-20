@@ -1,0 +1,21 @@
+What was the username of the external contractor?
+apoole1
+What IP address did the contractor use to create their account?
+10.10.0.78
+What is the post_id of the malicious post that the contractor made?
+9
+What is the full URI that the credential stealer sends its data to?
+http://10.10.0.78/update.php
+When did the contractor log into the forum as the administrator? (UTC)
+26/04/2023 10:53:12
+In the forum there are plaintext credentials for the LDAP connection, what is the password?
+Passw0rd1
+What is the user agent of the Administrator user?
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+What time did the contractor add themselves to the Administrator group? (UTC)
+26/04/2023 10:53:51
+What time did the contractor download the database backup? (UTC)
+26/04/2023 11:01:38
+Task 10
+What was the size in bytes of the database backup as stated by access.log?
+34707
