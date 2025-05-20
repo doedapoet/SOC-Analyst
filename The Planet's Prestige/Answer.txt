@@ -1,0 +1,20 @@
+What is the email service used by the malicious actor? (1 points)
+Emkei.cz
+What is the Reply-To email address? (2 points)
+negeja3921@pashter.com
+What is the filetype of the received attachment which helped to continue the investigation? (1 points)
+.zip
+What is the name of the malicious actor? (2 points)
+Pestero Negeja
+What is the location of the attacker in this Universe? (2 points)
+The Martian Colony, Beside Interplanetary Spaceport
+What could be the probable C&C domain to control the attacker’s autonomous bots? (2 points)
+pashter.com
+
+File pdf có trong mail chỉ là dạng giả (Phising) nên là decode base64 sang hex, sau đó tìm mã hex (4 mã đầu)thì biết được đó chính là dạng file zip
+
+Sau khi nén file dạng ASCII string (Decode base64) sang dạng Zip xong, hãy tận dụng kiến thức assembly mà bạn có, sau đó hãy đổi định dạng các thư mục có trong file thành .pdf, .jpeg
+
+Trong file xlsx, hãy compare 2 bản trang tính để tìm ra địa chỉ của kẻ tấn công (Xóa format thôi) 
+=> VGhlIE1hcnRpYW4gQ29sb255LCBCZXNpZGUgSW50ZXJwbGFuZXRhcnkgU3BhY2Vwb3J0Lg== 
+(dạng Base 64)
