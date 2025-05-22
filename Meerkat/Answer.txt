@@ -1,0 +1,20 @@
+We believe our Business Management Platform server has been compromised. Please can you confirm the name of the application running?
+BonitaSoft
+We believe the attacker may have used a subset of the brute forcing attack category - what is the name of the attack carried out?
+Credential Stuffing
+Does the vulnerability exploited have a CVE assigned - and if so, which one?
+CVE-2022-25237
+Which string was appended to the API URL path to bypass the authorization filter by the attacker's exploit?
+i18ntranslation
+How many combinations of usernames and passwords were used in the credential stuffing attack?
+56
+Which username and password combination was successful?
+seb.broom@forela.co.uk:g0vernm3nt
+If any, which text sharing site did the attacker utilise?
+pastes.io
+Please provide the filename of the public key used by the attacker to gain persistence on our host.
+hffgra4unv
+Can you confirm the file modified by the attacker to gain persistence?
+/home/ubuntu/.ssh/authorized_keys
+Can you confirm the MITRE technique ID of this type of persistence mechanism?
+T1098.004
