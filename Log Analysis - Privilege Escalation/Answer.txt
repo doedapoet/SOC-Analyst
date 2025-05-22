@@ -1,0 +1,10 @@
+What user (other than ‘root’) is present on the server? (2 points)
+daniel
+What script did the attacker try to download to the server? (2 points)
+linux-exploit-suggester.sh
+What packet analyzer tool did the attacker try to use? (2 points)
+tcpdump
+What file extension did the attacker use to bypass the file upload filter implemented by the developer? (2 points)
+.phtml
+Based on the commands run by the attacker before removing the php shell, what misconfiguration was exploited in the ‘python’ binary to gain root-level access? 1- Reverse Shell ; 2- File Upload ; 3- File Write ; 4- SUID ; 5- Library load (2 points)
+4
