@@ -1,0 +1,41 @@
+Task 1
+
+Analyzing Domain Controller Security Logs, can you confirm the date & time when the kerberoasting activity occurred?
+
+2024-05-21 03:18:09
+
+Task 2
+
+What is the Service Name that was targeted?
+
+MSSQLService
+
+Task 3
+
+It is really important to identify the Workstation from which this activity occurred. What is the IP Address of the workstation?
+
+172.17.79.129
+
+Task 4
+
+Now that we have identified the workstation, a triage including PowerShell logs and Prefetch files are provided to you for some deeper insights so we can understand how this activity occurred on the endpoint. What is the name of the file used to Enumerate Active directory objects and possibly find Kerberoastable accounts in the network?
+
+powerview.ps1
+
+Task 5
+
+When was this script executed?
+
+2024-05-21 03:16:32
+
+Task 6
+
+What is the full path of the tool used to perform the actual kerberoasting attack?
+
+C:\Users\Alonzo.spire\Downloads\Rubeus.exe
+
+Task 7
+
+When was the tool executed to dump credentials?
+
+2024-05-21 03:18:08
