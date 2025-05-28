@@ -1,0 +1,95 @@
+Q1
+Solved : 1498
+
+Which service did the attackers use to gain access to the system?
+
+
+ssh
+***
+Q2
+Solved : 1342
+
+What is the operating system version of the targeted system?
+
+
+4.2.4-1ubuntu3
+*.*.*-*ubuntu*
+Q3
+Solved : 1445
+
+What is the name of the compromised account?
+
+
+root
+****
+Q4
+Solved : 1266
+
+How many attackers, represented by unique IP addresses, were able to successfully access the system after initial failed attempts?
+
+
+6
+Q5
+Solved : 1248
+
+Which attacker's IP address successfully logged into the system the most number of times?
+
+
+219.150.161.20
+***.***.***.20
+Q6
+Solved : 1233
+
+How many requests were sent to the Apache Server?
+
+
+365
+Q7
+Solved : 1227
+
+How many rules have been added to the firewall?
+
+
+6
+Q8
+Solved : 1225
+
+One of the downloaded files on the target system is a scanning tool. What is the name of the tool?
+
+
+nmap
+****
+Q9
+Solved : 1113
+
+When was the last login from the attacker with IP 219.150.161.20? Format: MM/DD/YYYY HH:MM:SS AM
+
+04/19/2010 05:56:05 AM
+
+
+2010-04-19 05:56
+YYYY-MM-DD HH:MM
+Q10
+Solved : 1150
+
+The database showed two warning messages. Please provide the most critical and potentially dangerous one.
+
+
+mysql.user contains 2 root accounts without password!
+e.g., mysql.user co...*!
+Q11
+Solved : 1186
+
+Multiple accounts were created on the target system. Which account was created on April 26 at 04:43:15?
+
+
+wind3str0y
+**********
+Q12
+Solved : 1137
+
+Few attackers were using a proxy to run their scans. What is the corresponding user-agent used by this proxy?
+
+
+pxyscand/2.1
+********/*.*
