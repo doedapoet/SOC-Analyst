@@ -1,0 +1,47 @@
+Q1
+Solved : 1476
+
+What is the name of the file associated with the given hash?
+
+
+document-1982481273.xlsm
+doc*****-**********.****
+Q2
+Solved : 1467
+
+Can you identify the filename of the GIF file that was deployed?
+
+
+3003.gif
+****.***
+Q3
+Solved : 1407
+
+How many domains does the malware look to download the additional payload file in Q2?
+
+
+5
+Q4
+Solved : 1349
+
+From the domains mentioned in Q3, a DNS registrar was predominantly used by the threat actor to host their harmful content, enabling the malware's functionality. Can you specify the Registrar INC?
+
+
+NAMECHEAP
+*********
+Q5
+Solved : 1313
+
+Could you specify the threat actor linked to the sample provided?
+
+
+GOLD CABIN
+G*** *****
+Q6
+Solved : 1256
+
+In the Execution phase, what function does the malware employ to fetch extra payloads onto the system?
+
+
+URLDownloadToFileA
+U***************A
