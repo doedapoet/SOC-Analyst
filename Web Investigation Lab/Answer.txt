@@ -1,0 +1,76 @@
+Q1
+Solved : 4667
+
+By knowing the attacker's IP, we can analyze all logs and actions related to that IP and determine the extent of the attack, the duration of the attack, and the techniques used. Can you provide the attacker's IP?
+
+
+111.224.250.131
+***.***.***.***
+Q2
+Solved : 4523
+
+If the geographical origin of an IP address is known to be from a region that has no business or expected traffic with our network, this can be an indicator of a targeted attack. Can you determine the origin city of the attacker?
+
+
+Shijiazhuang
+************
+Q3
+Solved : 4331
+
+Identifying the exploited script allows security teams to understand exactly which vulnerability was used in the attack. This knowledge is critical for finding the appropriate patch or workaround to close the security gap and prevent future exploitation. Can you provide the vulnerable PHP script name?
+
+
+search.php
+******.php
+Q4
+Solved : 4078
+
+Establishing the timeline of an attack, starting from the initial exploitation attempt, what is the complete request URI of the first SQLi attempt by the attacker?
+
+Note: Decode the Value.
+
+
+/search.php?search=book and 1=1; -- -
+/search.php?******=**** *** *=*; -- -
+Q5
+Solved : 3520
+
+Can you provide the complete request URI that was used to read the web server's available databases?
+
+Note: Decode the Value.
+
+
+/search.php?search=book' UNION ALL SELECT NULL,CONCAT(0x7178766271,JSON_ARRAYAGG(CONCAT_WS(0x7a76676a636b,schema_name)),0x7176706a71) FROM INFORMATION_SCHEMA.SCHEMATA-- -
+/search.php?...=book' ...*-- -
+Q6
+Solved : 3584
+
+Assessing the impact of the breach and data access is crucial, including the potential harm to the organization's reputation. What's the table name containing the website users data?
+
+
+customers
+c********
+Q7
+Solved : 3639
+
+The website directories hidden from the public could serve as an unauthorized access point or contain sensitive functionalities not intended for public access. Can you provide the name of the directory discovered by the attacker?
+
+
+/admin/
+/*****/
+Q8
+Solved : 3553
+
+Knowing which credentials were used allows us to determine the extent of account compromise. What are the credentials used by the attacker for logging in?
+
+
+admin:admin123!
+username:password
+Q9
+Solved : 3593
+
+We need to determine if the attacker gained further access or control of our web server. What's the name of the malicious script uploaded by the attacker?
+
+
+NVri2vhp.php
+********.php
