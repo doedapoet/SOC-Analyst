@@ -1,0 +1,12 @@
+What file is the autorun.inf running? (3 points)
+README.md
+Does the pdf file pass virustotal scan? (No malicious results returned) (2 points)
+false
+Does the file have the correct magic number? (2 points)
+true
+What OS type can the file exploit? (Linux, MacOS, Windows, etc) (5 points)
+windows
+A Windows executable is mentioned in the pdf file, what is it? (3 points)
+cmd.exe
+How many suspicious /OpenAction elements does the file have? (5 points)
+1
