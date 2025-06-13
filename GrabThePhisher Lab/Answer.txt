@@ -1,0 +1,94 @@
+Q1
+Solved : 4337
+
+Which wallet is used for asking the seed phrase?
+
+
+metamask
+********
+Q2
+Solved : 4191
+
+What is the file name that has the code for the phishing kit?
+
+
+metamask.php
+********.***
+Q3
+Solved : 4231
+
+In which language was the kit written?
+
+
+php
+***
+Q4
+Solved : 3882
+
+What service does the kit use to retrieve the victim's machine information?
+
+
+Sypex Geo
+***** ***
+Q5
+Solved : 4022
+
+How many seed phrases were already collected?
+
+
+3
+Q6
+Solved : 3934
+
+Could you please provide the seed phrase associated with the most recent phishing incident?
+
+
+father also recycle embody balance concert mechanic believe owner pair muffin hockey
+Seed Phrase(e.g.,fath...)
+Q7
+Solved : 3880
+
+Which medium was used for credential dumping?
+
+
+telegram
+********
+Q8
+Solved : 3928
+
+What is the token for accessing the channel?
+
+
+5457463144:AAG8t4k7e2ew3tTi0IBShcWbSia0Irvxm10
+Token(e.g.,545...)
+Q9
+Solved : 3932
+
+What is the Chat ID for the phisher's channel?
+
+
+5442785564
+Q10
+Solved : 3920
+
+What are the allies of the phish kit developer?
+
+
+j1j1b1s@m3r0
+*******@****
+Q11
+Solved : 3722
+
+What is the full name of the Phish Actor?
+
+
+Marcus Aurelius
+****** ********
+Q12
+Solved : 3718
+
+What is the username of the Phish Actor?
+
+
+pumpkinboii
+***********
