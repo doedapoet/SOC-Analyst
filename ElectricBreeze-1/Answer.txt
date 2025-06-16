@@ -1,0 +1,83 @@
+Task 1
+
+Based on MITRE's sources, since when has Volt Typhoon been active?
+
+2021
+
+Task 2
+
+MITRE identifies two OS credential dumping techniques used by Volt Typhoon. One is LSASS Memory access (T1003.001). What is the Attack ID for the other technique?
+
+T1003.003
+
+Task 3
+
+Which database is targeted by the credential dumping technique mentioned earlier?
+
+Active Directory
+
+Task 4
+
+Which registry hive is required by the threat actor to decrypt the targeted database?
+
+SYSTEM
+
+Task 5
+
+During the June 2024 campaign, an adversary was observed using a Zero-Day Exploitation targeting Versa Director. What is the name of the Software/Malware that was used?
+
+VersaMem
+
+Task 6
+
+According to the Server Software Component, what type of malware was observed?
+
+Web Shell
+
+Task 7
+
+Where did the malware store captured credentials?
+
+/tmp/.temp.data
+
+Task 8
+
+According to MITRE’s reference, a Lumen/Black Lotus Labs article(Taking The Crossroads: The Versa Director Zero-Day Exploitaiton.), what was the filename of the first malware version scanned on VirusTotal?
+
+VersaTest.png
+
+Task 9
+
+What is the SHA256 hash of the file?
+
+4bcedac20a75e8f8833f4725adfc87577c32990c3783bf6c743f14599a176c37
+
+Task 10
+
+According to VirusTotal, what is the file type of the malware?
+
+JAR
+
+Task 11
+
+What is the 'Created by' value in the file's Manifest according to VirusTotal?
+
+Apache Maven 3.6.0
+
+Task 12
+
+What is the CVE identifier associated with this malware and vulnerability?
+
+CVE-2024-39717
+
+Task 13
+
+According to the CISA document(https://www.cisa.gov/sites/default/files/2024-03/aa24-038a_csa_prc_state_sponsored_actors_compromise_us_critical_infrastructure_3.pdf) referenced by MITRE, what is the primary strategy Volt Typhoon uses for defense evasion?
+
+LOTL
+
+Task 14
+
+In the CISA document, which file name is associated with the command potentially used to analyze logon patterns by Volt Typhoon?
+
+C:\users\public\documents\user.dat
